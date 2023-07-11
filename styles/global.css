@@ -22,3 +22,8 @@ img {
     color: #FFFFFF;
     border: none;
 }
+
+.p-text-primary {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 12px;
+}

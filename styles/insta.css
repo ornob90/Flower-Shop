@@ -1,0 +1,68 @@
+
+.insta-section {
+    width: 80%;
+    /* background-color: lightpink; */
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+}
+
+.insta-content {
+    text-align: center;
+    width: 50%;
+}
+
+.insta-content h1 {
+    font-weight: 900;
+}
+
+.insta-content * {
+    padding: 10px;
+}
+
+
+.insta-flowers {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 30px;
+}
+
+.insta-card {
+    width: 20%;
+    height: 250px;
+    background-color: lightblue;
+}
+
+
+.insta-card-1 {
+    background: url(../images/Flower-01.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: lightblue 50%;
+}
+
+.insta-card-2 {
+    background: url(../images/Rectangle-4.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(233, 192, 162) 50%;
+}
+
+.insta-card-3 {
+    background: url(../images/Rectangle-5.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-color: lightblue 50%; */
+}
+
+.insta-card-4 {
+    background: url(../images/Rectangle-6.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* background-color: lightblue 50%; */
+}

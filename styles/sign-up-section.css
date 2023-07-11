@@ -1,0 +1,45 @@
+.sign-up-section {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60vh;
+    width: 100%;
+    /* background-color: rgba(229, 84, 115, 0.1); */
+    background-color: rgba(229, 84, 115, 0.10);
+
+    background-image: url(../images/pngwing-8.png);
+    background-repeat: no-repeat;
+    background-size: 40vh;
+    background-position: right 20% center;
+}
+
+.sign-up-left {
+    width: 40%;
+    padding: 20px;
+    text-align: center;
+    margin-left: 150px;
+}
+
+.sign-up-left  * {
+    margin-top: 20px;
+}
+
+.sign-up-left h1 {
+    font-weight: 900;
+}
+
+.sign-up-left button {
+    width: 90px;
+    height: 38px;
+    border-radius: 8px;
+}
+
+
+.sign-up-left .span-off {
+    color: #E55473;
+}
+
+.sign-up-bg {
+    width: 40%;
+}
+
