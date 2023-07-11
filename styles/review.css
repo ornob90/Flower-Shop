@@ -54,3 +54,22 @@
     object-fit: cover;
 }
 
+.profile {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: rgb(230, 149, 149);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 900;
+}
+
+.profile2 {
+    background-color: rgb(171, 236, 171);
+}
+
+.profile3 {
+    background-color: rgb(85, 222, 216);
+}
